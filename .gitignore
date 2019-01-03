@@ -1,2 +1,4 @@
 /.cpcache
 /target
+/dev
+/figwheel_server.log
